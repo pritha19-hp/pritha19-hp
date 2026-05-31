@@ -4,10 +4,6 @@
 Instagram link :-  https://www.instagram.com/pritha3726/ <br>
 Linkedin link :- https://www.linkedin.com/in/pritha-kundu-819654319 
 
-# 💫 About Me:
-Hi 👋 , I'm Pritha Kundu <br>💻 A CSE student<br>👩‍🔧 Loves to learn new things everyday and to apply it 
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pritha3726/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pritha-kundu-819654319 ) 
 
