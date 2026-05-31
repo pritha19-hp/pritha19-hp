@@ -17,7 +17,6 @@ Linkedin link :- https://www.linkedin.com/in/pritha-kundu-819654319
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-[![](https://komarev.com/ghpvc/?username=pritha 19-hp&icon=4&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
