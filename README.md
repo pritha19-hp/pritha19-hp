@@ -1,7 +1,7 @@
 ## Hi 👋 , I'm Pritha Kundu <br>
 💻 A CSE student <br>
 👩‍🔧 Loves to learn new things everyday and to apply it <br>
-Instagram link :-  https://www.instagram.com/pritha3726/ <br>
+Leetcode link :- https://leetcode.com/u/pritha_3726/ <br>
 Linkedin link :- https://www.linkedin.com/in/pritha-kundu-819654319 
 
 
