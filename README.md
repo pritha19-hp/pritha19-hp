@@ -6,8 +6,8 @@ Linkedin link :- https://www.linkedin.com/in/pritha-kundu-819654319
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pritha-kundu-819654319) 
-[![Leetcode](https://img.shields.io/badge/leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/pritha_3726/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pritha-kundu-819654319) 
+[![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/pritha_3726/) 
 
 
 
